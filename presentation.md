@@ -8,10 +8,11 @@
 
 <aside class="notes">
 Are dreams another kind of preview to Heaven?
-
 </aside>
 
-# 
+
+
+# Manifest
 
 
 
@@ -19,20 +20,163 @@ Are dreams another kind of preview to Heaven?
 We manifest our reality based on our personality 
 </aside>
 
-# Experimenting
 
-```
-git add -v .
-git commit -a -m "I made a small change"
-git push
-```
+
+# Karma
+
+
 
 <aside class="notes">
-Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command.
-<\aside>
+Karma from shit we did since the day we were seven
+</aside>
 
-# Enjoy
+
+
+# Toys
+
+
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+So did you share toys? or did you masturbate at eleven
+</aside>
+
+
+
+# Milennial
+
+
+
+<aside class="notes">
+I'm just a 90's baby, a millennial kid
+</aside>
+
+
+
+# Indigos
+
+
+
+<aside class="notes">
+Indigos are on the rise to make perennial shift
+</aside>
+
+
+
+# Hope
+
+
+
+<aside class="notes">
+Hope this music stands long as Redwood Sequoias
+</aside>
+
+
+
+# Pyramids
+
+
+
+
+<aside class="notes">
+Pyramids and stones, like stones from Stonehenge
+</aside>
+
+
+
+# Truth
+
+
+
+<aside class="notes">
+Come on, let the future tell the truth
+</aside>
+
+
+
+# Shell
+
+
+
+<aside class="notes">
+Cause you a shell of you
+</aside>
+
+
+
+# Cards
+
+
+
+<aside class="notes">
+You played your cards wrong, now you got hell in you
+</aside>
+
+
+
+# Respect
+
+
+
+<aside class="notes">
+Be glad I still retain respect for you
+</aside>
+
+
+
+# Bullets
+
+
+
+<aside class="notes">
+Cause I got bullets that'll kill ya, if your vest is hell and heaven proof
+</aside>
+
+
+
+# Greed
+
+
+
+<aside class="notes">
+I'll never understand your corporate greed
+</aside>
+
+
+
+# More
+
+
+
+<aside class="notes">
+Just a group of people, all they want is more than they need
+</aside>
+
+
+
+# Pain
+
+
+
+<aside class="notes">
+Signing off on papers, blinded to the pain overseas
+</aside>
+
+
+
+# Blood
+
+
+
+<aside class="notes">
+Blood resulting from the ink that they bleed
+</aside>
+
+
+
+# Forbidden
+
+
+
+<aside class="notes">
+But that's forbidden knowledge
 </aside>
