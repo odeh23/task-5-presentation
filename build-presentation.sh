@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT=$1
+INPUT=presentation
 TEMPLATE=template-index.html
 TRANSITION=slide
 THEME=black
